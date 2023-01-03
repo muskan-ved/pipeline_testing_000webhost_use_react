@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" 
              alt="logo" />
           
-<p>A simple React app.....</p>
+<p>A simple React app.....using pipeline testing</p>
   
         <a
           className="App-link"
