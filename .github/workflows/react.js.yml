@@ -20,7 +20,7 @@ jobs:
     
     - name: List output files
       run: find build/ -print
-      working-directory: ./public_html/
+      working-directory: public_html/
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:
