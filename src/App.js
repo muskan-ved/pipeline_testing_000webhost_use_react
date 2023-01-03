@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" 
              alt="logo" />
           
-<p>....using pipeline testing folder structure</p>
+<p>testing pieline....using pipeline testing folder structure</p>
   
         <a
           className="App-link"
